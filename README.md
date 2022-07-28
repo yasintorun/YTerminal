@@ -15,6 +15,11 @@ Komutlar: [Commands](https://github.com/yasintorun/YTerminal/tree/main/Commands)
 
 Komutun tanıtıldığı kısım: [CommandConfiguration](https://github.com/yasintorun/YTerminal/blob/main/Configs/CommandConfiguration.cs)
 
+
+### Proje mimarisi
+
+![Proje mimarisi](https://github.com/yasintorun/YTerminal/blob/main/screenshots/projectarch.png)
+
 ### Screenshots
 
 ![Terminal](https://github.com/yasintorun/YTerminal/blob/main/screenshots/YTerminal-0.PNG)
