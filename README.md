@@ -1,7 +1,7 @@
 # YTerminal
  Custom file system terminal with C#
 
-C# .Net 6 ile gleiştirilmiştir.
+C# .Net 6 ile geliştirilmiştir.
 
 Mediator design pattern sistemini örnek alınarak geliştirilmiştir.
 
